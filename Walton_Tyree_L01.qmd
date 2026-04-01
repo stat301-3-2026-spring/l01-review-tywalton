@@ -1,8 +1,8 @@
 ---
 title: "L01 Review"
 subtitle: "Data Science 3 with R (STAT 301-3)"
-author: "YOUR NAME"
-pagetitle: "L01 YOUR NAME"
+author: "Tyree Walton"
+pagetitle: "L01 Tyree Walton"
 date: today
 
 format:
@@ -26,9 +26,7 @@ citation-location: margin
 ::: {.callout-tip icon="false"}
 ## Github Repo Link
 
-To link to your github **repo**sitory, appropriately edit the example link below. Meaning replace `https://your-github-repo-url` with your github repo url. Suggest verifying the link works before submitting.
-
-[https://your-github-repo-url](https://your-github-repo-url)
+[Tyree's Repo Link](https://github.com/stat301-3-2026-spring/l01-review-tywalton)
 :::
 
 ## Overview
@@ -46,7 +44,13 @@ Provide a brief outline/overview of the steps involved in a supervised machine l
 ::: {.callout-tip icon="false"}
 ## Solution
 
-YOUR SOLUTION HERE
+- EDA 
+- splitting data 
+- fold 
+- recipes
+- workflow 
+- fit models
+- evaluate 
 
 :::
 
@@ -57,7 +61,8 @@ Explain the difference between supervised and unsupervised learning.
 ::: {.callout-tip icon="false"}
 ## Solution
 
-YOUR SOLUTION HERE
+Supervised learning - pre-categorized data, classification or regression, predications and predictive models, has a target variable 
+Unsupervised learning - unlabelled data, pattern/structure recognition, no target variable 
 
 :::
 
@@ -70,8 +75,9 @@ In general, we can classify a model by its purpose into 1 of the 3 categories be
 ::: {.callout-tip icon="false"}
 ## Solution
 
-YOUR SOLUTION HERE
-
+identify trends in the data
+linear models, parametric models 
+summarize relationships 
 :::
 
 #### Inferential Models
@@ -79,7 +85,10 @@ YOUR SOLUTION HERE
 ::: {.callout-tip icon="false"}
 ## Solution
 
-YOUR SOLUTION HERE
+hypothesis 
+whats connected to an output 
+what inputs affect the output 
+parametric models 
 
 :::
 
@@ -88,7 +97,7 @@ YOUR SOLUTION HERE
 ::: {.callout-tip icon="false"}
 ## Solution
 
-YOUR SOLUTION HERE
+prediction 
 
 :::
 
